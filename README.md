@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alan Talbot.
+- 👀 I’m interested in C++, 2D graphics, GIS, simulation, and music software.
+- 🌱 I’m currently learning how to use modules in C++20.
+- 💞️ I’m looking to collaborate on ...?
+- 📫 How to reach me ...
